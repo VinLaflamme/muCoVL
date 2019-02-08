@@ -1,0 +1,16 @@
+Package: muCoVL
+Type: Package
+Title: What the package does (short line)
+Version: 1.6.7
+Date: 2015-09-02
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+Depends:
+    data.table,
+    ggplot2,
+    ez,
+    lsmeans,
+    plyr
+License: What license is it under?
+RoxygenNote: 6.0.1
